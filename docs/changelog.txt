@@ -1,0 +1,8 @@
+Changelog for TinyMCE4-charCounter Plugin
+------------------------------------------------
+
+Version: 0.0.1-beta
+Date: 30 September 2019
+==============
+- Release
+------------------------------------------------
